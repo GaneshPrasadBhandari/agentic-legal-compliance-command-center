@@ -10,8 +10,8 @@
 **Bhandari, G. P. (2026).**  
 *Agentic Legal & Compliance Command Center: A Production-Grade AI Flight Computer for Governed, Auditable, and Self-Healing Enterprise Legal Workflows (v1.0).*  
 
-📘 **Technical Whitepaper (Zenodo/CERN):** **[ADD DOI AFTER PUBLISH]**  
-📌 **DOI:** **[ADD DOI AFTER PUBLISH]**  
+📘 **Technical Whitepaper (Zenodo/CERN):** **[https://doi.org/10.5281/zenodo.20320123]**  
+📌 **DOI:** **[https://doi.org/10.5281/zenodo.20320123]**  
 🚀 **Newsletter:** [Join AI Vanguard on LinkedIn](https://www.linkedin.com/newsletters/7220489256505331712/)  
 🧬 **ORCID:** https://orcid.org/0009-0002-7308-4279  
 ▶️ **YouTube:** [AIInovateHub](https://www.youtube.com/@AIINOVATEHUB)  
@@ -262,7 +262,7 @@ The system uses a strict grounding loop before generating answers.
    If not, refuse, request more context, or escalate to human review.
 ```
 
-This prevents the system from inventing legal conclusions when evidence is weak.
+This prevents the system from inventing legal conclusions when the evidence is weak.
 
 ---
 
@@ -465,8 +465,8 @@ docker/
 
 ## 🧾 References & Publication
 
-- **Zenodo DOI:** **[ADD DOI AFTER PUBLISH]**
-- **Zenodo Record:** **[ADD RECORD AFTER PUBLISH]**
+- **Zenodo DOI:** **[https://doi.org/10.5281/zenodo.20320123]**
+- **Zenodo Record:** **[https://doi.org/10.5281/zenodo.20320123]**
 - **License:** **Creative Commons Attribution 4.0 International (CC BY 4.0)**
 
 ### Suggested Citation
@@ -520,7 +520,7 @@ This project is **not legal advice** and does not replace review by qualified le
 
 ## ⚠️ Disclaimer
 
-This project is an architecture blueprint for educational, research, portfolio, and product-design purposes.
+This project is an architecture blueprint for educational, research, portfolio, and product design purposes.
 
 It is not legal advice, compliance advice, or a substitute for qualified legal counsel. Any production legal or compliance deployment must be reviewed by authorized legal professionals, security teams, and enterprise governance stakeholders.
 
